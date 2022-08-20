@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chinedu
 ## *pronounced [chi-nay-doo]*
-#### I'm a fullstack software engineer from Lagos, Nigeria with experience architecting and developing large, secure, scalable, and high-performing enterprise and consumer solutions for startups and corporates. I'm also passionate about clean, testable, and reusable code.
+#### I'm a fullstack software engineer from Lagos Nigeria with experience architecting and developing large, secure, scalable, and high-performing enterprise and consumer solutions for startups and corporates. I'm also passionate about clean, testable, and reusable code.
 
 
 - 🔭 I’m working as a Senior Software Engineer in the Financial Sector(Banking) and contributing to frontend and backend for building web applications and services.
