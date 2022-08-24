@@ -39,10 +39,18 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chinedudara&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chinedudara&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinedudara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinedudara&layout=compact&theme=vision-friendly-dark)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chinedudara&show_icons=true&theme=vision-friendly-dark)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=chinedudara)
+
+---
+
+### While you're here, Here is a random tech joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
 
